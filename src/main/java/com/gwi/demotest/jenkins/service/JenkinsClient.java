@@ -4,7 +4,7 @@ import com.mashape.unirest.http.Unirest;
 import com.mashape.unirest.http.exceptions.UnirestException;
 
 /**
- * Jenkins接口调用
+ * Jenkins接口调用1
  * 此代码是从postman中生成的
  * 调用的是jenkins的一个插件generic-webhook-trigger暴露的接口
  */
